@@ -12,3 +12,8 @@ The images all now contain an alt attribute so that in case they dont load for w
 Both of the HTML file and the CSS file have been annotated to describe what is happening in each section of the code, making it easier to understand if opening this code with no prior knowledge to it.  The final product is clear, concise code, with a nice looking website.
 
 ## Screenshot
+
+![](screenshot-mconway409-github-io-Homework-Assignment-1-1604151621217.png)
+
+## Site Link
+
